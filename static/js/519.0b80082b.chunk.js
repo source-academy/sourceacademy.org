@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkfrontend=globalThis.webpackChunkfrontend||[]).push([[519],{519:(e,t)=>{Object.defineProperty(t,"__esModule",{value:!0});const n={"doubleToRawLongBits(D)J":(e,t)=>{const n=t[0],a=new DataView(new ArrayBuffer(8));a.setFloat64(0,n),e.returnStackFrame64(a.getBigInt64(0))},"longBitsToDouble(J)D":(e,t)=>{const n=t[0],a=new DataView(new ArrayBuffer(8));a.getBigInt64(0,n),e.returnStackFrame64(a.getFloat64(0))}};t.default=n}}]);
+//# sourceMappingURL=519.0b80082b.chunk.js.map

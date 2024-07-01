@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkfrontend=globalThis.webpackChunkfrontend||[]).push([[95321],{95321:(e,a,t)=>{Object.defineProperty(a,"__esModule",{value:!0});const r=t(54280),l={"fillInStackTrace(I)Ljava/lang/Throwable;":(e,a)=>{r.logger.warn("Throwable.fillInStackTrace(I)Ljava/lang/Throwable; not implemented"),e.returnStackFrame(a[0])},"getStackTraceDepth()I":e=>{r.logger.warn("Throwable.getStackTraceDepth()I not implemented"),e.returnStackFrame(0)}};a.default=l}}]);
+//# sourceMappingURL=95321.491f72be.chunk.js.map

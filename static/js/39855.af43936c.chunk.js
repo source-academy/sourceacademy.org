@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkfrontend=globalThis.webpackChunkfrontend||[]).push([[39855],{39855:(e,s,o)=>{o.r(s),o.d(s,{Component:()=>a,default:()=>d});var n=o(72791),t=o(57689),c=o(90362),r=o(80184);const u=()=>{const{isLoggedIn:e,courseId:s}=(0,c.kP)(),o=(0,t.s0)();return(0,n.useEffect)((()=>{e&&o(void 0!==s?`/courses/${s}`:"/welcome")}),[s,o,e]),(0,r.jsx)(t.j3,{})},a=u;a.displayName="Login";const d=u}}]);
+//# sourceMappingURL=39855.af43936c.chunk.js.map
