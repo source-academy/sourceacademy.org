@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkfrontend=globalThis.webpackChunkfrontend||[]).push([[11908],{9370:(e,o)=>{Object.defineProperty(o,"__esModule",{value:!0}),o.default=void 0;var t={lastWeek:"'viime' eeee 'klo' p",yesterday:"'eilen klo' p",today:"'t\xe4n\xe4\xe4n klo' p",tomorrow:"'huomenna klo' p",nextWeek:"'ensi' eeee 'klo' p",other:"P"},n=function(e,o,n,l){return t[e]};o.default=n,e.exports=o.default}}]);
+//# sourceMappingURL=date-fns-locale-fi-_lib-formatRelative-index-js.8594fa54.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkfrontend=globalThis.webpackChunkfrontend||[]).push([[81719],{81719:(e,t,n)=>{Object.defineProperty(t,"__esModule",{value:!0});const r=n(54280),a={"initIDs()V":e=>{r.logger.warn("FileInputStream.initIDs()V not implemented"),e.returnStackFrame()}};t.default=a}}]);
+//# sourceMappingURL=81719.6952cd0e.chunk.js.map
