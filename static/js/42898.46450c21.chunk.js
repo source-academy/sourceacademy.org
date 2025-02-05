@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkfrontend=globalThis.webpackChunkfrontend||[]).push([[42898],{42898:(o,e,n)=>{n.r(e),n.d(e,{Component:()=>l,default:()=>r});var t=n(25078),d=n(7290),s=n(99361),a=n(98139),u=n.n(a),c=(n(65043),n(70579));const i=()=>(0,c.jsx)("div",{className:u()("NoPage",t.DARK),"data-testid":"NotFound-Component",children:(0,c.jsx)(d.I,{icon:s.W.ERROR,title:"404 Not Found",description:"The requested resource could not be found"})}),l=i;l.displayName="NotFound";const r=i}}]);
+//# sourceMappingURL=42898.46450c21.chunk.js.map
