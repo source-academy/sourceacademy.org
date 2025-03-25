@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkfrontend=globalThis.webpackChunkfrontend||[]).push([[79002],{90550:(e,a)=>{Object.defineProperty(a,"__esModule",{value:!0}),a.default=void 0;var t={lastWeek:"'mu dheireadh' eeee 'aig' p",yesterday:"'an-d\xe8 aig' p",today:"'an-diugh aig' p",tomorrow:"'a-m\xe0ireach aig' p",nextWeek:"eeee 'aig' p",other:"P"},r=function(e,a,r,d){return t[e]};a.default=r,e.exports=a.default}}]);
+//# sourceMappingURL=date-fns-locale-gd-_lib-formatRelative-index-js.4eb6b0e4.chunk.js.map
