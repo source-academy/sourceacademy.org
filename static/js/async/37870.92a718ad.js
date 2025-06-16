@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkfrontend=globalThis.webpackChunkfrontend||[]).push([["37870"],{98855:function(e,t,n){Object.defineProperty(t,"__esModule",{value:!0});let r=n(97100);t.default={"intern()Ljava/lang/String;":(e,t)=>{let n=t[0],a=(0,r.j2jsString)(n),l=e.getJVM().getInternedString(a);e.returnStackFrame(l)}}}}]);
