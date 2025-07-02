@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkfrontend=globalThis.webpackChunkfrontend||[]).push([["67245"],{45109:function(n,o,t){t.r(o),t.d(o,{IconSvgPaths16:()=>c,IconSvgPaths20:()=>e,getIconPaths:()=>h,iconNameToPathsRecordKey:()=>s});var a=t(57764),c=t(96646),e=t(5595),r=t(15624);function h(n,o){var t=(0,a.Ho)(n);return o===r.J.STANDARD?c[t]:e[t]}function s(n){return(0,a.Ho)(n)}}}]);
