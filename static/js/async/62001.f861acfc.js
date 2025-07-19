@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkfrontend=globalThis.webpackChunkfrontend||[]).push([["62001"],{83558:function(e,t,n){Object.defineProperty(t,"__esModule",{value:!0});let i=n(97100);t.default={"initIDs()V":e=>{i.logger.warn("FileDescriptor.initIDs()V not implemented"),e.returnStackFrame()}}}}]);
