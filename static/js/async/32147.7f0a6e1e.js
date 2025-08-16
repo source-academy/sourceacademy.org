@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkfrontend=globalThis.webpackChunkfrontend||[]).push([["32147"],{52472:function(e,a){Object.defineProperty(a,"__esModule",{value:!0}),a.default={"availableProcessors()I":e=>{e.returnStackFrame(1)}}}}]);
