@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkfrontend=globalThis.webpackChunkfrontend||[]).push([["77109"],{29663:function(e,n,t){t.r(n),t.d(n,{allPathsLoader:()=>a});let a=async(e,n)=>{let{getIconPaths:a}=await Promise.resolve().then(t.bind(t,96720));return a(e,n)}}}]);
+//# sourceMappingURL=blueprint-icons-all-paths-loader.9d6db99e.js.map

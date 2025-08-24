@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkfrontend=globalThis.webpackChunkfrontend||[]).push([["4782"],{67354:function(e,n){Object.defineProperty(n,"__esModule",{value:!0}),n.default={"initialize()V":e=>{e.returnStackFrame()}}}}]);
+//# sourceMappingURL=4782.dc66fd9c.js.map
