@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkfrontend=globalThis.webpackChunkfrontend||[]).push([["54479"],{46034:function(e,t,a){Object.defineProperty(t,"__esModule",{value:!0});let n=a(32099);t.default={"newArray(Ljava/lang/Class;I)Ljava/lang/Object;":(e,t)=>{let a=t[0].getNativeField("classRef"),s=t[1],l="["+a.getDescriptor(),r=a.getLoader().getClass(l);if(r.status===n.ResultType.ERROR)return void e.throwNewException("java/lang/ClassNotFoundException",r.msg);let i=r.result.instantiate();i.initArray(s),e.returnStackFrame(i)}}}}]);
+//# sourceMappingURL=54479.65ebe0cf.js.map
