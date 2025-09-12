@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkfrontend=globalThis.webpackChunkfrontend||[]).push([["84362"],{95633:function(e,o,n){n.r(o),n.d(o,{Component:()=>c,default:()=>r});var t=n(74848),d=n(53991),s=n(64907),a=n(66314),u=n(53978),i=n.n(u);n(96540);let l=()=>(0,t.jsx)("div",{className:i()("NoPage",d.DARK),"data-testid":"NotFound-Component",children:(0,t.jsx)(s.I,{icon:a.W.ERROR,title:"404 Not Found",description:"The requested resource could not be found"})}),c=l;c.displayName="NotFound";let r=l}}]);
+//# sourceMappingURL=84362.e0c1efb7.js.map

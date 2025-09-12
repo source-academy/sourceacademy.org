@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkfrontend=globalThis.webpackChunkfrontend||[]).push([["96370"],{6384:function(e,a){Object.defineProperty(a,"__esModule",{value:!0}),a.default=void 0;var t={lastWeek:"eeee 'lepas pada jam' p",yesterday:"'Semalam pada jam' p",today:"'Hari ini pada jam' p",tomorrow:"'Esok pada jam' p",nextWeek:"eeee 'pada jam' p",other:"P"};a.default=function(e,a,o,p){return t[e]},e.exports=a.default}}]);
+//# sourceMappingURL=date-fns-locale-ms-_lib-formatRelative-index-js.87db83c1.js.map
