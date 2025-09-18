@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkfrontend=globalThis.webpackChunkfrontend||[]).push([["13827"],{89614:function(e,t,n){Object.defineProperty(t,"__esModule",{value:!0});let i=n(30300);t.default={"initIDs()V":e=>{i.logger.warn("FileDescriptor.initIDs()V not implemented"),e.returnStackFrame()}}}}]);
+//# sourceMappingURL=13827.a3ed5e68.js.map
