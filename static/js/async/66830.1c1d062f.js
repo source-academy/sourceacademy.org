@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkfrontend=globalThis.webpackChunkfrontend||[]).push([["66830"],{26109:function(e,n,t){t.r(n),t.d(n,{Component:()=>r,default:()=>c});var o=t(74848),s=t(96540),l=t(94894),u=t(64088);let a=()=>{let{isLoggedIn:e,courseId:n}=(0,u.wV)(),t=(0,l.Zp)();return(0,s.useEffect)(()=>{e&&(void 0!==n?t(`/courses/${n}`):t("/welcome"))},[n,t,e]),(0,o.jsx)(l.sv,{})},r=a;r.displayName="Login";let c=a}}]);
+//# sourceMappingURL=66830.1c1d062f.js.map
