@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkfrontend=globalThis.webpackChunkfrontend||[]).push([["82841"],{42805(e,l){Object.defineProperty(l,"__esModule",{value:!0}),l.default=void 0;var t={lastWeek:"eeee 'li għadda' 'fil-'p",yesterday:"'Il-bieraħ fil-'p",today:"'Illum fil-'p",tomorrow:"'Għada fil-'p",nextWeek:"eeee 'fil-'p",other:"P"};l.default=function(e,l,a,o){return t[e]},e.exports=l.default}}]);
+//# sourceMappingURL=date-fns-locale-mt-_lib-formatRelative-index-js.f295b23e.js.map
