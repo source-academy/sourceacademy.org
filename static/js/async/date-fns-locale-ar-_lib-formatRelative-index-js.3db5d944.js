@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkfrontend=globalThis.webpackChunkfrontend||[]).push([["85059"],{63027(e,t){Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var o={lastWeek:"eeee 'الماضي عند الساعة' p",yesterday:"'الأمس عند الساعة' p",today:"'اليوم عند الساعة' p",tomorrow:"'غدا عند الساعة' p",nextWeek:"eeee 'القادم عند الساعة' p",other:"P"};t.default=function(e){return o[e]},e.exports=t.default}}]);
+//# sourceMappingURL=date-fns-locale-ar-_lib-formatRelative-index-js.3db5d944.js.map

@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkfrontend=globalThis.webpackChunkfrontend||[]).push([["77506"],{79416(e,t){Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var o={lastWeek:"'પાછલા' eeee p",yesterday:"'ગઈકાલે' p",today:"'આજે' p",tomorrow:"'આવતીકાલે' p",nextWeek:"eeee p",other:"P"};t.default=function(e,t,r,a){return o[e]},e.exports=t.default}}]);
+//# sourceMappingURL=date-fns-locale-gu-_lib-formatRelative-index-js.af106b42.js.map

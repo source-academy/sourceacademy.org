@@ -1,0 +1,26 @@
+/*!
+ * Reconnecting WebSocket
+ * by Pedro Ladaria <pedro.ladaria@gmail.com>
+ * https://github.com/pladaria/reconnecting-websocket
+ * License MIT
+ */
+
+/*!
+ * © 2016-2021 Convergence Labs, Inc.
+ * @version 0.6.0
+ * @license MIT
+ */
+
+/**
+ * @fileOverview
+ * @name sharedb-ace-binding.js
+ * @author Jethro Kuan <jethrokuan95@gmail.com>
+ * @license MIT
+ */
+
+/**
+ * @fileOverview
+ * @name sharedb-ace.js
+ * @author Jethro Kuan <jethrokuan95@gmail.com>
+ * @license MIT
+ */
