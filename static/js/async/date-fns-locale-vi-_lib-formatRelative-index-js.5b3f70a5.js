@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkfrontend=globalThis.webpackChunkfrontend||[]).push([["25781"],{53569(e,t){Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var o={lastWeek:"eeee 'tuần trước v\xe0o l\xfac' p",yesterday:"'h\xf4m qua v\xe0o l\xfac' p",today:"'h\xf4m nay v\xe0o l\xfac' p",tomorrow:"'ng\xe0y mai v\xe0o l\xfac' p",nextWeek:"eeee 'tới v\xe0o l\xfac' p",other:"P"};t.default=function(e,t,a,l){return o[e]},e.exports=t.default}}]);
+//# sourceMappingURL=date-fns-locale-vi-_lib-formatRelative-index-js.5b3f70a5.js.map

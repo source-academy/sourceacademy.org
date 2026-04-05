@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkfrontend=globalThis.webpackChunkfrontend||[]).push([["51268"],{30999(e,t,a){a.r(t),a.d(t,{splitPathsBySizeLoader:()=>s});var n=a(43261),r=a(6134);let s=async(e,t)=>{let s=(0,n.fL)(e);return(t===r.l.STANDARD?await Promise.resolve().then(a.bind(a,23783)):await Promise.resolve().then(a.bind(a,31108)))[s]}}}]);
+//# sourceMappingURL=blueprint-icons-split-paths-by-size-loader.c636cb37.js.map
