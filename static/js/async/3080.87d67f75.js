@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkfrontend=globalThis.webpackChunkfrontend||[]).push([["3080"],{64171(e,a,t){Object.defineProperty(a,"__esModule",{value:!0});let l=t(30300);a.default={"getLookupCacheURLs(Ljava/lang/ClassLoader;)[Ljava/net/URL;":e=>{l.logger.warn("Native method not implemented: getLookupCacheURLs(Ljava/lang/ClassLoader;)[Ljava/net/URL;"),e.returnStackFrame(null)}}}}]);
+//# sourceMappingURL=3080.87d67f75.js.map
