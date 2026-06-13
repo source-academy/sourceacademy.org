@@ -1,0 +1,2 @@
+"use strict";(globalThis.rspackChunkfrontend=globalThis.rspackChunkfrontend||[]).push([[1268],{30999(e,s,r){var t=r(43261),a=r(6134);let n=async(e,s)=>{let n=(0,t.fL)(e);return(s===a.l.STANDARD?await Promise.resolve().then(r.bind(r,16738)):await Promise.resolve().then(r.bind(r,9604)))[n]};r.d(s,{},{splitPathsBySizeLoader:n})}}]);
+//# sourceMappingURL=blueprint-icons-split-paths-by-size-loader.c9011d1f6e.js.map

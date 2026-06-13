@@ -1,0 +1,2 @@
+"use strict";(globalThis.rspackChunkfrontend=globalThis.rspackChunkfrontend||[]).push([[3761],{39946(e,s,a){let n=async(e,s)=>{let{getIconPaths:n}=await Promise.resolve().then(a.bind(a,39803));return n(e,s)};a.d(s,{},{allPathsLoader:n})}}]);
+//# sourceMappingURL=blueprint-icons-all-paths-loader.ce383a628d.js.map

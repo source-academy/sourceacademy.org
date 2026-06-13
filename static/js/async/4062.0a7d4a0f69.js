@@ -1,0 +1,2 @@
+"use strict";(globalThis.rspackChunkfrontend=globalThis.rspackChunkfrontend||[]).push([[4062],{10573(n,o,e){e.r(o);var t=e(74848),s=e(53991),r=e(64907),d=e(5705);e.d(o,{},{Component:function(){return(0,t.jsx)("div",{className:s.DARK,"data-testid":"NotFound-Component",children:(0,t.jsx)(r.I,{icon:d.W.ERROR,title:"404 Not Found",description:"The requested resource could not be found"})})}})}}]);
+//# sourceMappingURL=4062.0a7d4a0f69.js.map

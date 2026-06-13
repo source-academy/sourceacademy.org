@@ -1,0 +1,2 @@
+"use strict";(globalThis.rspackChunkfrontend=globalThis.rspackChunkfrontend||[]).push([[6385],{37432(e,t){Object.defineProperty(t,"__esModule",{value:!0}),t.default={"doubleToRawLongBits(D)J":(e,t)=>{let a=t[0],r=new DataView(new ArrayBuffer(8));r.setFloat64(0,a),e.returnStackFrame64(r.getBigInt64(0))},"longBitsToDouble(J)D":(e,t)=>{let a=t[0],r=new DataView(new ArrayBuffer(8));r.getBigInt64(0,a),e.returnStackFrame64(r.getFloat64(0))}}}}]);
+//# sourceMappingURL=6385.e4c4453c86.js.map
