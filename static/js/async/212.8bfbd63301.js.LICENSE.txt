@@ -1,0 +1,15 @@
+/*!
+ * 
+ *   react-simple-keyboard v3.8.241 (index.modern.esm.js - Modern Browsers bundle, ESM output)
+ *   https://github.com/hodgef/react-simple-keyboard
+ *
+ *   NOTE: This modern browsers bundle (index.modern.esm.js) removes all polyfills
+ *   included in the standard version. Use this if you are supporting
+ *   modern browsers only. Otherwise, use the standard version (index.js).
+ *
+ *   Copyright (c) Francisco Hodge (https://github.com/hodgef) and project contributors.
+ *
+ *   This source code is licensed under the MIT license found in the
+ *   LICENSE file in the root directory of this source tree.
+ *
+ */
