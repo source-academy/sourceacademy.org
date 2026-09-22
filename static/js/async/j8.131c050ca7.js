@@ -1,0 +1,2 @@
+"use strict";(globalThis.rspackChunkfrontend||=[]).push([["j8"],{JOo(e,t,n){Object.defineProperty(t,"__esModule",{value:!0});let r=n("vH6");t.default={"intern()Ljava/lang/String;":(e,t)=>{let n=t[0],a=(0,r.j2jsString)(n),l=e.getJVM().getInternedString(a);e.returnStackFrame(l)}}}}]);
+//# sourceMappingURL=j8.131c050ca7.js.map

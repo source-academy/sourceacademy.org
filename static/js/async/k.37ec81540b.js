@@ -1,0 +1,2 @@
+"use strict";(globalThis.rspackChunkfrontend||=[]).push([["k"],{KV(e,r){Object.defineProperty(r,"__esModule",{value:!0}),r.default={"VMSupportsCS8()Z":e=>{e.returnStackFrame(1)}}}}]);
+//# sourceMappingURL=k.37ec81540b.js.map

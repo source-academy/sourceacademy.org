@@ -1,0 +1,2 @@
+"use strict";(globalThis.rspackChunkfrontend||=[]).push([["1j"],{TEf(e,a,t){Object.defineProperty(a,"__esModule",{value:!0});let l=t("vH6");a.default={"getLookupCacheURLs(Ljava/lang/ClassLoader;)[Ljava/net/URL;":e=>{l.logger.warn("Native method not implemented: getLookupCacheURLs(Ljava/lang/ClassLoader;)[Ljava/net/URL;"),e.returnStackFrame(null)}}}}]);
+//# sourceMappingURL=1j.9fea2410df.js.map
