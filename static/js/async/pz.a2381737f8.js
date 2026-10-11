@@ -1,0 +1,2 @@
+"use strict";(globalThis.rspackChunkfrontend||=[]).push([["pz"],{Xve(e,s,t){t.r(s);var u=t("X"),n=t("u"),o=t("lZ"),r=t("QB"),c=t("Ew0");function l(){let{isLoggedIn:e,courseId:s}=(0,c.wV)(),t=(0,o.Zp)();return(0,n.useEffect)(()=>{e&&(void 0!==s?t(`/courses/${s}`):t("/welcome"))},[s,t,e]),(0,u.jsx)(r.sv,{})}s.default=l,t.d(s,{},{Component:l})}}]);
+//# sourceMappingURL=pz.a2381737f8.js.map
