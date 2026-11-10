@@ -1,0 +1,2 @@
+"use strict";(globalThis.rspackChunkfrontend||=[]).push([["v8"],{tB(e,t){Object.defineProperty(t,"__esModule",{value:!0}),t.default={"initialize()V":e=>{e.returnStackFrame()}}}}]);
+//# sourceMappingURL=v8.bc402841c1.js.map

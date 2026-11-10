@@ -1,0 +1,2 @@
+"use strict";(globalThis.rspackChunkfrontend||=[]).push([["yq"],{Uxc(e,t,r){Object.defineProperty(t,"__esModule",{value:!0});let i=r("vH6");t.default={"initIDs()V":e=>{i.logger.warn("FileDescriptor.initIDs()V not implemented"),e.returnStackFrame()}}}}]);
+//# sourceMappingURL=yq.6fc1c16177.js.map
