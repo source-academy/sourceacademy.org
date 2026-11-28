@@ -1,0 +1,2 @@
+"use strict";(globalThis.rspackChunkfrontend||=[]).push([["zk"],{ZAD(t,e,n){n.r(e);var o=n("X"),s=n("K"),d=n("tu"),r=n("I");n.d(e,{},{Component:function(){return(0,o.jsx)("div",{className:s.DARK,"data-testid":"NotFound-Component",children:(0,o.jsx)(d.I,{icon:r.W.ERROR,title:"404 Not Found",description:"The requested resource could not be found"})})}})}}]);
+//# sourceMappingURL=zk.4f9c854f7c.js.map
